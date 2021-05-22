@@ -1,0 +1,4 @@
+# Project exclude paths
+/JavaWeb/target/
+/out/
+/StaticWeb01/target/
